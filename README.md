@@ -1,4 +1,6 @@
-# password-policy-ts
+![npm version](https://img.shields.io/npm/v/password-policy-ts)
+![npm downloads](https://img.shields.io/npm/dm/password-policy-ts)
+![license](https://img.shields.io/github/license/iftikharyk/password-policy-ts)
 
 A **TypeScript-first password policy enforcement library** with typed errors, fluent API, presets, and validation helpers.  
 Designed for modern applications that need secure, customizable password validation.
