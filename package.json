@@ -21,8 +21,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iftikharyk/password-policy-ts.git"
+    "url": "git+https://github.com/iftikharyk/password-policy-ts.git"
   },
+  "bugs": {
+    "url": "https://github.com/iftikharyk/password-policy-ts/issues"
+  },
+  "homepage": "https://github.com/iftikharyk/password-policy-ts#readme",
   "type": "module",
   "devDependencies": {
     "ts-node": "^10.9.2",
